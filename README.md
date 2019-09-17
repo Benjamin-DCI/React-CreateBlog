@@ -24,9 +24,3 @@ Once the user creates a post, they should be redirected to the /show route, whic
 -   Give the user the ability to delete their post.
 -   Give the user the ability to edit their post.
 
-### Rules
-
--   This is an individual assignment.
--   Deadline: 3 Hrs.
--   Use **Git properly**
--   Feel free to document your code with comments.
