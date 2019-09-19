@@ -11,7 +11,7 @@ nav {
 }
 a {
   float:left;
-  or display: inline-block;
+  /* or display: inline-block;*/
   color: #61dafb;
   padding: 10px;
   margin: 0 20px 0 20px;
